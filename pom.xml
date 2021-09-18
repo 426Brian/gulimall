@@ -8,10 +8,7 @@
         <version>2.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-<<<<<<< HEAD
 
-=======
->>>>>>> 863000c4feb9f304ee14cc08ccc543a4537ebbff
     <groupId>com.atguigu.gulimall</groupId>
     <artifactId>gulimall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
